@@ -1,10 +1,16 @@
-# Aprenda Kotlin Com Exemplos: Desafio de Projeto (Lab)
+# Resultado do meu desafio de projeto
 
-Desafio de Projeto criado para avaliação do conteúdo técnico explorado no repositório [aprenda-kotlin-com-exemplos](https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos). **Nesse contexto, iremos abstrair o seguinte domínio de aplicação:**
+Olá, eu sou Alex.
 
-**A [DIO](https://web.dio.me) possui `Formacoes` incríveis que têm como objetivo oferecer um conjunto de `ConteudosEducacionais` voltados para uma stack tecnológica específica, preparando profissionais de TI para o mercado de trabalho. `Formacoes` possuem algumas características importantes, como `nome`, `nivel` e seus respectivos `conteudosEducacionais`. Além disso, tais experiências educacionais têm um comportamento relevante ao nosso domínio, definido pela capacidade de `matricular` um ou mais `Alunos`.**
+Este é o resultado do meu desafio de projeto do bootcamp Kotlin Experience da DIO.
 
+A aplicação é desenvolvida utilizando:
 
-```kotlin
-TODO("Crie uma solução em Koltin abstraindo esse domínio. O arquivo [desafio.kt] te ajudará 😉")
-```
+- A linguagem Kotlin
+- Orientação a objetos
+
+Ela demonstra as habilidades que adquiri durante o bootcamp.
+
+Estou satisfeito por ter completado o desafio e me alegro em compartilhar o resultado com a comunidade.
+
+Obrigado por conferir o meu projeto!
