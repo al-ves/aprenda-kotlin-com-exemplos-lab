@@ -66,6 +66,4 @@ fun main() {
 	println("Testando propriedade 'nivel' do objeto Formacao:")
 	println("Nível da formação: ${formacao.nivel}")
 	println()
-
 }
-
